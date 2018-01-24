@@ -1,2 +1,4 @@
 Program menentukan jenis kelamin menggunakan nama, dapat menggunakan huruf kapital dan huruf kecil</br>
-Bagas Priowibowo IF-39-14 1301154308
+Nama  : Bagas Priowibowo </br>
+Kelas : IF-39-14 </br>
+NIM   :1301154308 </br>
