@@ -1,3 +1,7 @@
+Asumsi yang dipakai:</br>
+- Huruf A, I, U, E, L, T merupakan huruf yang sering muncul pada nama perempuan</br>
+- Huruf B, D, O merupakan huruf yang sering muncul pada nama laki-laki</br>
+</br>
 Pada program ini, akan mendapatkan hasil yang kurang akurat, karena hanya menentukan jenis kelamin</br> 
 berdasarkan jumlah huruf yang sering keluar pada sebuah nama. Setelah saya coba menggunakan nama </br>
 saya, hasilnya akan benar, yaitu jenis kelamin laki-laki, namun jika saya menggunakan nama lain seperti </br>
